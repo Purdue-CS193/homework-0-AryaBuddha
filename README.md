@@ -1,8 +1,9 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/ZTIRwRWR)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11674153&assignment_repo_type=AssignmentRepo)
+
 # CS 193 Homework 0 - GitHub and Your Own Website!
 
-## What is this assignment
+## What is this assignment I changed some stuff
 
 Throughout this homework, you will create a personal GitHub account, use that GitHub account to modify some code from the homework repository, and then submit it to us for grading! This same basic process will be used throughout CS193 to complete and turn in all of your homework. For this first one, we're focusing on getting you used to the process.
 
@@ -16,13 +17,13 @@ When you have a GitHub account, submitted your GitHub username, and have a websi
 
 ## Heads up!
 
-You should only continue from here if everything went smoothly from the instructions in the PDF on Brightspace.  If things did not go smoothly then revisit those instructions and finish up all the steps it lists first!
+You should only continue from here if everything went smoothly from the instructions in the PDF on Brightspace. If things did not go smoothly then revisit those instructions and finish up all the steps it lists first!
 
 ## Step 4 - Create Your Own Website!
 
 The repository that was just created for you is already set up with a simple file that displays a basic website. The website content is found in the `index.md` file. Throughout this homework, you will be editing this file to create your own content for this website.
 
-To activate the website so you can visit it in a browser, click on the **Purdue-CS193/homework-0-\<Your Github Username\>** repository from your GitHub home page. On the top part of the repository page, click on the **Settings** tab. 
+To activate the website so you can visit it in a browser, click on the **Purdue-CS193/homework-0-\<Your Github Username\>** repository from your GitHub home page. On the top part of the repository page, click on the **Settings** tab.
 
 Before you can create a GitHub Page, you must make your repository public. You can do this at the bottom of the Settings tab in the section labeled **Danger Zone**. Once there, find the option labeled 'Change repository visibility'. Click the 'Change visibility' button to the right and select the 'make public' option. Confirm it by typing the confirmation message, and you are good to go!
 
@@ -47,9 +48,9 @@ To save your changes so that they will display on your website, fill out the **C
 When you're ready, create a **heading** (a heading is some text that is preceded by a `# `, note the space after the #) to title your website
 **\<Your Name\>'s First CS193 Homework**
 
-Next, create a bulleted list of some of your favorite things about CS193 (if you don't have any, I'll be sad :( but try to make some up anyway).  Bulleted lists are a series of lines that each start with a `- ` followed by your text.  You can see an example in `index.md`.
+Next, create a bulleted list of some of your favorite things about CS193 (if you don't have any, I'll be sad :( but try to make some up anyway). Bulleted lists are a series of lines that each start with a `- ` followed by your text. You can see an example in `index.md`.
 
-We have provided a simple Markdown syntax guide and other useful resources in the `index.md`. The syntax guide is in the code block, which begins and ends with ` ``` ` (three backticks or one for inline code block) and interprets text literally (*italicize syntax, not in code block* v.s. `*italicize syntax, in code block*`). Feel free to keep or delete the guide, but **make sure not to put actual website contents inside of the code block**.
+We have provided a simple Markdown syntax guide and other useful resources in the `index.md`. The syntax guide is in the code block, which begins and ends with ` ``` ` (three backticks or one for inline code block) and interprets text literally (_italicize syntax, not in code block_ v.s. `*italicize syntax, in code block*`). Feel free to keep or delete the guide, but **make sure not to put actual website contents inside of the code block**.
 
 When you're done, commit your changes, just as you did above and you're done! **CONGRATULATIONS** you just completed your first CS193 homework :) Give yourself a pat on the back and bask in the glory of your brand-new fancy GitHub Website!
 
@@ -61,7 +62,7 @@ Navigate to the settings page for your **Purdue-CS193/homework-0-\<Your Github U
 ## Rubric
 
 | Task                                          | Points |
-|-----------------------------------------------|--------|
+| --------------------------------------------- | ------ |
 | Created GitHub account and submitted username | 3      |
 | Created website through GitHub pages          | 2      |
 | Correctly added name to the heading           | 1      |
